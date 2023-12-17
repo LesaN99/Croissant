@@ -2,13 +2,11 @@ body {
     background-color: #f8e8a6;
 }
 
-h1 {
+h1,
+p{
     text-align: center;
 }
 
-p {
-    text-align: center;
-}
 
 .navigation-links {
     text-align:center;
